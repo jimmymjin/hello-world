@@ -21,3 +21,5 @@ github_username:  jimmymjin
 markdown: kramdown
 
 port: 8080
+
+theme: jekyll-theme-cayman
