@@ -6,6 +6,12 @@ mini.ffnews.cn
 api.ffnews.cn
 apimini.ffnews.cn
 cos.ffnews.cn  
+# anti-virus
+personal.avira-update.com
+professional.update.avira.com
+ssldev.oes.avira.com
+dispatch.avira-update.com
+api.my.avira.com
 
 # porn
 www.pornhome.com
