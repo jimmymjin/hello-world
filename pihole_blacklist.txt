@@ -12,6 +12,7 @@ professional.update.avira.com
 ssldev.oes.avira.com
 dispatch.avira-update.com
 api.my.avira.com
+www.xpdowns.com.cn
 
 # porn
 www.pornhome.com
@@ -54,3 +55,4 @@ tracker.coppersurfer.tk
 tracker.dler.org
 tracker.internetwarriors.net
 tracker.cyberia.is
+opentracker.i2p.rocks
