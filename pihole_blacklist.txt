@@ -38,4 +38,19 @@ www.impulsegamer.com
 p2pupdate.gamedl.qq.com
 game.wifi8.com
 game.brawlstarsgame.com
+www.4399.com
 
+# p2p
+tracker.openbittorrent.com
+tracker.opentrackr.org
+tracker.leechers-paradise.org
+tracker.nyap2p.com
+tracker.pirateparty.gr
+tracker.trackerfix.com
+tracker.yify-torrents.com
+tracker.slowcheetah.org
+tracker.publicbt.com
+tracker.coppersurfer.tk
+tracker.dler.org
+tracker.internetwarriors.net
+tracker.cyberia.is
