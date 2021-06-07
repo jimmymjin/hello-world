@@ -16,6 +16,11 @@ www.xpdowns.com.cn
 i.glzip.com
 tj.glzip.com
 tips.glzip.com
+www.summerhamster.com
+s.f.360.cn
+agafurretor.com
+www.sqyjhf.com
+www.macxin.com
 
 # porn
 www.pornhome.com
@@ -32,6 +37,7 @@ xxx4you.co
 # game
 poki.com
 games.poki.com
+game-cdn.poki.com
 360game.360.cn
 game.163.com
 discord.com
@@ -44,6 +50,7 @@ www.impulsegamer.com
 p2pupdate.gamedl.qq.com
 game.wifi8.com
 game.brawlstarsgame.com
+game.brawlstars.cn
 www.4399.com
 
 # p2p
@@ -69,6 +76,8 @@ update.utorrent.li
 bittorrent-4.hs.llnwd.net
 torrent.tdjs.tech
 rutorrent.frontline-mod.com
+tracker.sktorrent.net
+tracker.foreverpirates.co
 
 # viral video
 video.trontv.com
