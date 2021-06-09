@@ -5,7 +5,10 @@ captcha-sourcecenter.com
 mini.ffnews.cn
 api.ffnews.cn
 apimini.ffnews.cn
-cos.ffnews.cn  
+cos.ffnews.cn
+tongji.flash.cn
+api.flash.cn
+
 # anti-virus
 personal.avira-update.com
 professional.update.avira.com
@@ -21,6 +24,8 @@ s.f.360.cn
 agafurretor.com
 www.sqyjhf.com
 www.macxin.com
+pcapp-data-collect.youku.com
+kidtrak.cn
 
 # porn
 www.pornhome.com
@@ -33,6 +38,11 @@ xxx18xxx.life
 videosxxx.life
 tryxxx.life
 xxx4you.co
+www.retroxxxmovs.com
+bt.xxx-tracker.com
+www.naughtywomenpics.com
+www.lovemomsex.com
+www.reit-hentai.com
 
 # game
 poki.com
@@ -78,6 +88,8 @@ torrent.tdjs.tech
 rutorrent.frontline-mod.com
 tracker.sktorrent.net
 tracker.foreverpirates.co
+tracker.dutchtracking.com
+tracker.kicks-ass.net
 
 # viral video
 video.trontv.com
